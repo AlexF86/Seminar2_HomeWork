@@ -6,7 +6,6 @@
 32679 -> 6
 */
 
-
 Console.Write("Введите число: ");
 int anyNumber = Convert.ToInt32(Console.ReadLine());
 string anyNumberText = Convert.ToString(anyNumber);

@@ -5,7 +5,6 @@
 782 -> 8
 918 -> 1
 */
-
 Console.Clear();
 Console.Write("Введите трёхзначное число: ");
 int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
